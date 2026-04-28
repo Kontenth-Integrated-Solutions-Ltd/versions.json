@@ -1,5 +1,5 @@
 {
-  "min_android_version": "1.0.2",
+  "min_android_version": "1.0.3",
   "force_update": true,
   "update_title": "Critical Update Required",
   "update_message": "This update contains important fixes. Please update to continue using Market Memory."
